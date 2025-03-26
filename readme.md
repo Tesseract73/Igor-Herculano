@@ -1,5 +1,3 @@
-
-
 # 👋 Hey there! I’m Igor
 
 ### About Me
