@@ -1,6 +1,6 @@
 
 
-# Hey there! I’m Igor
+# 👋 Hey there! I’m Igor
 
 ### About Me
 I’m a Marketing graduate (since 2011) with a lifelong passion for creativity and technology. Now, I’m starting a new chapter in my professional journey. After a hiatus to focus on a spiritual project, I’m returning to the workforce with a fresh perspective and a big goal: learning to code.
@@ -17,4 +17,4 @@ I’m a Marketing graduate (since 2011) with a lifelong passion for creativity a
 
 ### Let’s Connect
 I’m here to learn, grow, and collaborate. Feel free to reach out!  
-- [Email: igorherculano@outlook.com.br] :smile:
+- [Email: igorherculano@outlook.com.br] 
